@@ -17,8 +17,8 @@ valid_words = {
         ASSIGN: [
             "assign"
         ],
-        PRINT: [
-            "print"
+        DISPLAY: [
+            "display"
         ],
         IF: [
             "if"
@@ -26,15 +26,15 @@ valid_words = {
         ELSE: [
             "else"
         ],
-        WHILE: [
-            "while"
+        UNTIL: [
+            "until"
         ],
         BREAK_CONTINUE: [
             "break",
             "continue"
         ],
-        FUNCTION: [
-            "function"
+        PROCEDURE: [
+            "procedure"
         ],
         RETURN: [
             "return"
